@@ -1,2 +1,2 @@
 what is hello world ?
-it is a term that most begginer programer using it for their first code and it isn't pretty popular.
+it is a term that most proffesionla programer using it for their last code and it isn't pretty popular.
